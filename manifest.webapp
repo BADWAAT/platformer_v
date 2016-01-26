@@ -1,0 +1,17 @@
+{
+  "name": "FirefoxOS_Platformer",
+  "description": "platformer_game_beta",
+  "orientation": "landscape-primary",
+  "launch_path": "/index.html",
+  "icons": {
+    "512": "/img/icon-512.png",
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Daniel Balla",
+    "url": "https://github.com/BADWAAT/platformer"
+  },
+  "default_locale": "en",
+  "chrome": { "navigation": false },
+  "fullscreen": "true"
+}
